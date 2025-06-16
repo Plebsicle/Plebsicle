@@ -9,8 +9,6 @@ Building scalable, reliable systems that power modern applications.
 
 🌱 Lifelong learner, always exploring new tech and best practices
 
-## Currently Working on a Feature-Flag System
-
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praval.parikh@gmail.com)
